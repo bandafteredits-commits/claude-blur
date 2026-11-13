@@ -1,0 +1,5 @@
+1. Make a free account at github.com, click New repository (any name), then "uploading an existing file".
+2. Drag in EVERYTHING from this folder (motionblur.c, cpinject.c and the .github folder). Commit.
+3. Open the repository's "Actions" tab, wait for the green check (1-3 minutes).
+4. Click the finished run, download "motionblur-files" at the bottom, unzip it.
+5. Put motionblur.dll and cpinject.exe next to CheesyProxxy.exe (replace the old cpinject.exe).
